@@ -117,10 +117,10 @@ new Combination(10,0,0)
 			var table=new int[4,3];
 			var companyChoises=new Combination[4];
 			var coefficient=new int[4,3]{
-			{4,1,1},
 			{1,4,1},
+			{2,2,1},
 			{1,2,2},
-			{2,1,2}
+			{2,1,2},
 			};
 			int tempSum;
 			Cell tempCell;
